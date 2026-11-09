@@ -1,0 +1,6 @@
+{
+  "name": "මිල කැඳවුම් කළමනාකරණය | Quotation & Item Pricing Portal",
+  "description": "අයිටම් ලැයිස්තුවක් ඇතුළත් කර මිල කැඳවීම් (Price Quotations) ලබාගැනීමට, WhatsApp/Email හරහා බෙදාගැනීමට සහ Google Sheets වෙත සෘජුවම අපනයනය කිරීමට හැකි පද්ධතිය.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
